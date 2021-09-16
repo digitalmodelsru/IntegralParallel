@@ -8,6 +8,11 @@ namespace IntegralInParallel
 {
     class Program
     {
+        static double F(double x)
+        {
+            return 1.0 / (1 + x * x);
+        }
+
         static void Main(string[] args)
         {
         }

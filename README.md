@@ -1,3 +1,3 @@
 # IntegralParallel
 Численное интегрирование в многопоточном режиме.
-https://digitalmodels.ru
+Все уроки на https://digitalmodels.ru
